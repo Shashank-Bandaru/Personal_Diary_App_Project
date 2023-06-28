@@ -33,7 +33,14 @@ Upon launching the Personal Diary App, you will be greeted with the main screen,
 
   - Swipe left on the note you want to delete.
   - Confirm the deletion when prompted.
-    
+
+## Demonstration :
+                                      
+
+https://github.com/Shashank-Bandaru/Personal_Diary_App_Project/assets/106913883/d174e014-8681-49e3-92b5-e515883f9769
+
+
+
 ## Contributing
 Contributions to the Personal Diary App Project are always welcome. If you want to contribute, please follow these steps:
 
